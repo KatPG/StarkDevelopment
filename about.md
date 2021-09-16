@@ -6,3 +6,5 @@ Acá pondremos la descripción del proyecto.
 
 
 ## EQUIPO DE DESARROLLO
+
+Jorge Enrique Bernal
