@@ -31,3 +31,8 @@ mejor sociedad con mayores posibilidades de acceso a la información y reducir l
 trabajo de grado de la universidad, y participo en proyecto de innnovación tecnológica relacionado con el área de la salud y 
 Blockchain.
 
+**4. Jorge Enrique Bernal con el rol de Administrador de BD**
+
+Soy Ingeniero Electrónico de la Universidad Central y actualmente
+me desempeño en un cargo provisional en una entidad del Estado. Apasionado
+por los temas de tecnología.
