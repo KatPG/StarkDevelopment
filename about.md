@@ -14,3 +14,9 @@ y siempre he tenido el sueño de trabajar en el sector, razón por la cual curso
 desempeño como docente de cátedra en el Politécnico Colombiano Jaime Isaza Cadavid y como contratista 
 independiente en el área de la planificación urbana y el desarrollo territorial, además de estudiante de misión 
 TIC.
+
+**2. Leidy Katherine Parra Guzmán, con el rol de desarrollador.
+
+Ingeniera Química egresada de la Unversidad Industrial de Santander, 
+profesional universitario en el Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM,
+estudiante del programa MinTic 2022 - UDEA.
