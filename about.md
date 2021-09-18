@@ -15,7 +15,14 @@ desempeño como docente de cátedra en el Politécnico Colombiano Jaime Isaza Ca
 independiente en el área de la planificación urbana y el desarrollo territorial, además de estudiante de misión 
 TIC.
 
-**2. Joel Esnaider Sanchez Aristizabal, con el rol de *Product Owner* y desarrollador**
+
+**2. Leidy Katherine Parra Guzmán, con el rol de desarrollador**
+
+Ingeniera Química egresada de la Unversidad Industrial de Santander, 
+profesional universitario en el Instituto de Hidrología, Meteorología y Estudios Ambientales -IDEAM,
+estudiante del programa MinTic 2022 - UDEA.
+
+**3. Joel Esnaider Sanchez Aristizabal, con el rol de *Product Owner* y desarrollador**
 
 Estudiante de último semestre de Ciencia Política de la Universidad Nacional de Colombia Sede Medellín. A demás del interés por
 los asuntos sociales, siempre he tenido gran inquietud y cercanía con temas relacionados a la tecnología. Considero que los avances
