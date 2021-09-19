@@ -36,3 +36,7 @@ Blockchain.
 Soy Ingeniero Electrónico de la Universidad Central y actualmente
 me desempeño en un cargo provisional en una entidad del Estado. Apasionado
 por los temas de tecnología.
+
+**5. Brayan Arbey Madrid Londoño con el rol de Analista**
+
+Actualmente estudiante de ingeniería de sistemas de 6to semestre en la universidad Católica Luis Amigó sede Apartadó –Antioquia, apasionado por la programación, video juegos, tecnología y deportes extremos. Además, soy estudiante de las MinTic 2022 - UDEA
