@@ -40,3 +40,15 @@ por los temas de tecnología.
 **5. Brayan Arbey Madrid Londoño con el rol de Analista**
 
 Actualmente estudiante de ingeniería de sistemas de 6to semestre en la universidad Católica Luis Amigó sede Apartadó –Antioquia, apasionado por la programación, video juegos, tecnología y deportes extremos. Además, soy estudiante de las MinTic 2022 - UDEA
+
+
+**6. Carlos Ramirez, con el rol de desarrollador aprendiz**
+
+Soy Ingeniero y ademas he trabajado en el comercio. 
+Aunque haya tenido muy poco contacto
+ con temas de programacion, me interesan
+las aplicaciones que puede tener este tema en mi trabajo.
+Espero aprender mucho del curso y de mis compañeros.
+
+ 
+
