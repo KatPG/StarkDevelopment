@@ -1,0 +1,118 @@
+:root {
+     --buttons-height: 48px;
+}
+
+html {
+     margin: 30px;
+     font-family: 'Montserrat', sans-serif;
+     background-color: hsl(175, 21%, 43%);
+}
+
+#top-bar {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     justify-content: space-between;  
+     align-items: center;
+     justify-content: space-between;
+     padding: 0.6rem 0;
+}
+
+#logo img {
+     max-height: 100px;
+}
+
+#central {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     align-items: center;
+     justify-content: space-between;
+     padding: 0 7rem 0 2rem;
+}
+
+.text-nav p {
+     color:aliceblue;
+}
+
+.links {
+     color: hsl(223, 100%, 50%);
+     padding: 0 0 0 0;
+}
+
+.links a:hover {
+     text-decoration: underline;
+     cursor: pointer;
+}
+
+#right {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: space-evenly;
+     padding: 0 4rem 0 0;
+}
+
+section {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     justify-content: space-between;
+     padding: 25px 0px;
+     margin: 30px 30px;
+     grid-gap: 2rem;
+}
+
+.login p {
+     font-size: 4.5rem;
+     color:hsl(223, 100%, 50%);
+}
+
+.main-text {
+     padding: 20rem 0;
+}
+
+#p1 {
+     font-size: 3.5rem;
+     color:aliceblue;
+     padding: 0 0;
+     margin: 0;
+}
+
+#p2 {
+     font-size: 3rem;
+     color: hsl(223, 100%, 50%);
+     padding: 0;
+     margin: 0;
+}
+
+#p3 {
+     font-size: 2rem;
+     color:aliceblue;
+     text-align: justify;
+     padding: 2rem 15rem 0 0;
+}
+
+section img {
+     max-width: 100%;
+     max-height: 80%;
+     justify-content: center;
+     border-radius: 1rem;     
+     border-style: solid;
+     border-color: cornflowerblue;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5rem;
+}
+
+footer {
+     display: flex;
+     align-items: center;
+     flex-direction: row;
+     justify-content: center;
+     padding: 0.6rem 2rem;
+     margin: 25px 10px;
+}
+
+footer a:hover {
+     text-decoration: underline;
+     cursor: pointer;
+}
