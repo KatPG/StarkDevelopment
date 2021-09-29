@@ -14,7 +14,7 @@ html {
      justify-content: space-between;  
      align-items: center;
      justify-content: space-between;
-     padding: 0.6rem 0;
+     padding: 0.25rem 0;
 }
 
 #logo img {
@@ -55,8 +55,8 @@ section {
      display: grid;
      grid-template-columns: 1fr 1fr 1fr;
      justify-content: space-between;
-     padding: 25px 0px;
-     margin: 30px 30px;
+     padding: 0px 0px;
+     margin: 0px 30px;
      grid-gap: 2rem;
 }
 
@@ -108,8 +108,8 @@ footer {
      align-items: center;
      flex-direction: row;
      justify-content: center;
-     padding: 0.6rem 2rem;
-     margin: 25px 10px;
+     padding: 0 2rem;
+     margin: 0px 10px;
 }
 
 footer a:hover {
