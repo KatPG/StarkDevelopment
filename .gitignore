@@ -3,6 +3,8 @@
 node_modules
 *.pdf
 *.exe
-
-
+Dist
+*.jpeg
+*.jpg
+*.png
 
