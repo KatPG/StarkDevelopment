@@ -171,10 +171,11 @@ section img {
      
      .login p {
           font-size: 2rem;
+          padding: 2rem;
      }
 
      .main-text {
-          padding: 10rem 0;
+          padding: 12rem 0;
      }
      
      #p1 {
